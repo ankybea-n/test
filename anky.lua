@@ -1,4 +1,4 @@
--- [HOOKS v6]
+-- [HOOKS v6
 do
     local LOG_PATH = "hook_trace.txt"
     local MAX_STR  = 4000
